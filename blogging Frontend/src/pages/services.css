@@ -1,0 +1,48 @@
+/* ServicePage.css */
+.service-page {
+    background-color: #efe4eb!important;
+    padding: 20px;
+  }
+  
+  .service-page-header {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .service-page-header h1 {
+    font-size: 36px;
+  }
+  
+  .service-page-header p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .service-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .service-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    flex: 0 1 calc(33.333% - 20px);
+    min-width: 300px;
+  }
+  
+  .service-item h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .service-item p {
+    font-size: 16px;
+    color: #555;
+  }
+  
