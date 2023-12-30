@@ -1,6 +1,12 @@
 # blogging-Application
-Blogging Application deployed on AWS Services.
-Mysql Database of this application is deployed on AWS RDS,
-java Spring boot backend application and react frontend Application is deployed on AWS EC2 instance.
-Please copy the below link and paste it on browser to see the working of website :
-https://3.110.40.78:3000/
+Developed a secure, scalable, highly available, user friendly, social media web application for users.
+Users can share their thoughts through short posts which is in the form of text and images. 
+The frontend is developed using React JS and the backend is developed using Spring Boot under JAVA EE. 
+Database used is MySQL. 
+Features of this application include display of posts of the users.login and signup ,
+Adding comment on posts, user profile, add post, delete post, update post
+Admin privileges include add category , delete category. 
+Platform used Windows 10, STS, VS code. 
+Duration was 6 months 
+Technology used J2EE, Spring Boot, Spring Security along with JWT Authentication, Rest API, Bootstrap, ReactJS, MySQL.
+
